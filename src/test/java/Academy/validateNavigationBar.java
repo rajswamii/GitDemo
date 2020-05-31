@@ -53,6 +53,7 @@ public void initialize() throws IOException
 		 System.out.println("Git changes applying both sides?");
 	 //   Assert.assertFalse(false);
 		 System.out.println("checking branch demo");
+		 System.out.println("Check now from GitX Develop");
 	
 		
 		}
