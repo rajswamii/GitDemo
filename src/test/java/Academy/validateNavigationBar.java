@@ -49,6 +49,8 @@ public void initialize() throws IOException
 		 System.out.println("Test completed");
 		 System.out.println("Git also checked");
 		 System.out.println("Confirmed Git is working");
+		 System.out.println("Git changes checked");
+		 System.out.println("Git changes applying both sides?");
 	 //   Assert.assertFalse(false);
 		;
 	
