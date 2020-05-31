@@ -52,7 +52,7 @@ public void initialize() throws IOException
 		 System.out.println("Git changes checked");
 		 System.out.println("Git changes applying both sides?");
 	 //   Assert.assertFalse(false);
-		;
+		 System.out.println("checking branch demo");
 	
 		
 		}
